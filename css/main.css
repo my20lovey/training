@@ -1,0 +1,208 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_3 {
+  width: 100%;
+  height: 900px;
+  background: linear-gradient(rgba(194,52,171,1), rgba(124,244,143,1));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v15_28 {
+  width: 100%;
+  height: 2015px;
+  background: url("../images/v15_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 511px;
+  left: 466px;
+  overflow: hidden;
+}
+.v1_9 {
+  width: 1000px;
+  height: 1000px;
+  background: linear-gradient(rgba(227,231,36,1), rgba(129,20,124,1));
+  opacity: 0.75;
+  position: absolute;
+  top: 1015px;
+  left: 0px;
+}
+.v1_8 {
+  width: 1000px;
+  height: 1000px;
+  background: linear-gradient(rgba(91,244,244,1), rgba(149,175,154,1));
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1097px;
+  border-radius: 50%;
+}
+.v4_116 {
+  width: 950px;
+  height: 664px;
+  background: url("../images/v4_116.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 130px;
+  left: 135px;
+  overflow: hidden;
+}
+.v2_13 {
+  width: 950px;
+  height: 664px;
+  background: linear-gradient(rgba(157,154,154,1), rgba(227,194,194,1));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.v11_173 {
+  width: 390px;
+  height: 76px;
+  background: url("../images/v11_173.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 296px;
+  left: 302px;
+  overflow: hidden;
+}
+.v4_148 {
+  width: 390px;
+  color: rgba(0,0,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Luckiest Guy;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_149 {
+  width: 213px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 50px;
+  left: 88px;
+  font-family: Lora;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_159 {
+  width: 468px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 397px;
+  left: 282px;
+  font-family: Merienda;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v11_168 {
+  width: 176px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 579px;
+  left: 700px;
+  font-family: Lora;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v15_33 {
+  width: 250px;
+  height: 250px;
+  background: url("../images/v15_33.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 372px;
+  overflow: hidden;
+}
+.v13_7 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/v13_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 736px;
+  left: 1000px;
+  overflow: hidden;
+}
+.v4_142 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/v4_142.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 736px;
+  left: 910px;
+  overflow: hidden;
+}
+.v4_140 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/v4_140.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 736px;
+  left: 830px;
+  overflow: hidden;
+}
+.v15_29 {
+  width: 394px;
+  height: 118px;
+  background: url("../images/v15_29.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  left: 174px;
+  overflow: hidden;
+}
+.v13_8 {
+  width: 394px;
+  color: rgba(0,0,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Lemon;
+  font-weight: Regular;
+  font-size: 90px;
+  opacity: 1;
+  text-align: center;
+}
